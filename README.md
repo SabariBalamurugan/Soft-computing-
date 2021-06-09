@@ -1,0 +1,2 @@
+# Soft-computing-
+IMAGE CLASSIFICATION USING CNN
